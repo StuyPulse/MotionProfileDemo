@@ -1,0 +1,1 @@
+Guided activity to teach people the basic concepts and libs for motion profiling.
